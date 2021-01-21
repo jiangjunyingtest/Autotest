@@ -1,0 +1,2 @@
+java -jar命令。 ./moco-runner-0.11.0-standalone.jar是jar包的路径  http协议。 -p 8888端口号。 -c startup1.json是json文件
+java -jar ./moco-runner-0.11.0-standalone.jar http -p 8888 -c startup.json1
